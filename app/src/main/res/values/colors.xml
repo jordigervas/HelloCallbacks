@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="myColor">#ff000000</color>
+    <color name="textBackColor">#ff99ffcc</color>
+    <color name="textColor">#ff000099</color>
+</resources>

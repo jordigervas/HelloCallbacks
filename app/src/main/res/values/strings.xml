@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HelloCallbacks</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_hello_callbacks">HelloCallbacksActivity</string>
+    <string name="hello">Hello World, HelloCallbacksActivity!\n</string>
+    <string name="onCreateCallback">onCreate Callback\n</string>
+    <string name="onPostCreateCallback">onPostCreate Callback\n</string>
+    <string name="onStartCallback">onStart Callback\n</string>
+    <string name="onRestartCallback">onRestart Callback\n</string>
+    <string name="onResumeCallback">onResume Callback\n</string>
+    <string name="onPauseCallback">onPause Callback\n</string>
+    <string name="onStopCallback">onStop Callback\n</string>
+    <string name="onDestroyCallback">onDestroy Callback\n</string>
+</resources>
